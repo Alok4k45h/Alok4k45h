@@ -1,5 +1,5 @@
 Hello, My name is Alok Kumar. 
-I'm currently pursuing a Bachelor of Technology in Mining Engineering at IIT (ISM) Dhanbad. 
+I am a pre-final year student at IIT ISM DHanbad pursuing a 4 years course of Btech in Mining Engineering.  
 I'm a MERN Stack Developer. My primary interest is in Full-stack development, but I am always eager to try new domains.
 I'm a typical geek that enjoys problem-solving and programming. 
 I believe in always acquiring new skills and upskilling myself in order to improve as a person and to serve others as a small contribution to society. 
